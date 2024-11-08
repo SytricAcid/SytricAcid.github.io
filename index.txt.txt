@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head><title> ICT Hands-on </title></head> 
+<body background="grass.jpg"> 
+
+<head> 
+<link rel="stylesheet" href="AandR.css">
+</head>
+
+<h1> The Midnight Train </h1>
+<p class="one"> <b> 
+In the quiet hours, the midnight train <br> 
+rushed through the hills, through mist and rain. <br>
+Its whistle broke the silence of night, <br>
+a haunting call for those who dared to listen. <br>
+
+</p>
+<p class="two"> 
+Along the tracks, a young girl waited,
+holding dreams close, risking a new path.
+Her lantern low, her heart alive,
+she watched the train emerge from the fog.
+</p>
+
+<p class="three">
+One night she chose to board, alone,
+to leave behind the only life she knew.
+With stars as her guides, she passed her town,
+embracing the unknown stretching before her.
+</p>
+
+<p class="four">
+In far-off lands, she found her truth:
+journeys teach in ways stillness never will.
+Every mile brought strength she didn’t know she had—
+her fear, she learned, had been the only true cage.
+</p>
+
+
+</body>
+</html>
